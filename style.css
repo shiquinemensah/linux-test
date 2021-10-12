@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  background-color: black;
+
+}
+
+
+#showcase{
+  background: url(testimg.jpg);
+  background-color: black;
+  background-size: cover;
+  
+  height: 400px;
+  align-items: center;
+  background-position: center;
+}
